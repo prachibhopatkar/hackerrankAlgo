@@ -1,7 +1,7 @@
 /*
  * Consider a word consisting of lowercase English alphabetic letters, where each letter is  wide.
  *  Given the height of each letter in millimeters (),
- *  find the total area that will be highlighted by blue rectangle in when the given word is selected in our new PDF viewer.
+ *  find the total area that will be highlighted by blue rectangle in when the given word is selected in our new PDF viewer
  */
 import java.util.*;
 public class designerPDFViewer {
